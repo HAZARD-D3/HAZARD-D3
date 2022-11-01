@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_hazard
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
+  [![hazard](<imgur.com/RdprjcS.jpeg>
+ https://github.com/hazard_d3 |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_srj](https://github.com/hazard-d3)  |
 Base, Bug Fixes, Modules | 
   
     
