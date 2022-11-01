@@ -3,7 +3,7 @@
 ## Its_me_hazard
 
 <div align="center">
-  <imgur.com/RdprjcS.jpeg>
+ <imgur.com/RdprjcS.jpeg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
